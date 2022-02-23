@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Duke Schomberge's camp, giving an account of the condition of the English and Irish army, and a true account of all the papists in Ireland their number and estates, with reasons for declaring them forfeited, and the several parties amongst them with all the material circumstances that relate to that kingdom : from the camp at Dundalke, November 4, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48054</idno>
+            <idno type="STC">Wing L1461</idno>
+            <idno type="STC">ESTC R9296</idno>
+            <idno type="EEBO-CITATION">13111108</idno>
+            <idno type="OCLC">ocm 13111108</idno>
+            <idno type="VID">97632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97632)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Duke Schomberge's camp, giving an account of the condition of the English and Irish army, and a true account of all the papists in Ireland their number and estates, with reasons for declaring them forfeited, and the several parties amongst them with all the material circumstances that relate to that kingdom : from the camp at Dundalke, November 4, 1689.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst, and published by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Ireland. --  Army.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97632:1" rendition="simple:additions"/>
+            <p>A LETTER FROM <hi>Duke Schomberge's</hi> CAMP, Giving an Account of the Condition Of the <hi>Engliſh</hi> and <hi>Iriſh</hi> ARMY.</p>
+            <p>AND A True Account of all the Papiſts in <hi>Ireland,</hi> their Number and Eſtates, with Reaſons for declaring them forfeited, and the ſeveral Parties amongſt them.</p>
+            <p>With all the Material Circumſtances that relate to that Kingdom.</p>
+            <p>From the Camp at <hi>Dundalke, November</hi> 4. 1689.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt:</hi> And Publiſhed by <hi>Randal Taylor</hi> over againſt <hi>Stationers-Hall.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97632:2"/>
+            <pb n="1" facs="tcp:97632:2"/>
+            <head>A Letter from Duke <hi>Schombergs</hi> Camp, giving an Account of the Condi<g ref="char:EOLhyphen"/>tion of the <hi>Engliſh</hi> and <hi>Iriſh</hi> Army.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN compliance with your commands, and diſcharge of my promiſe, I will acquaint you with the State of our Af<g ref="char:EOLhyphen"/>fairs on this ſide, to which will be added a diſtinct cha<g ref="char:EOLhyphen"/>racter and diſcrimination of the ſeveral Parties amongſt the Papiſts in this Kingdom, their ſeveral Intereſts, and the Numbers of them, by which you will be the better enabled to judge how matters are likely to go here.</p>
+            <p>As to the firſt part; King <hi>James</hi> having had particular In<g ref="char:EOLhyphen"/>formation from the <hi>French</hi> Traiterous Fugitives (of which you have heard) of the condition of our Camp, the ſtrength, and weakeſt parts of our Trenches, where he might moſt eaſily ſur<g ref="char:EOLhyphen"/>prize Us; and being aſſured by them that they would ſeize one or two of our Poſts; to facilitate his Entrance into our Camp, he adventured to command his Army on the 14th of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> to advance within one or two Miles of Us, that he might the better execute his Deſign; his Army conſiſted of about Forty thouſand Men, whereof thirty thouſand were Armed, the reſt had ſuch Arms as the Countrey afforded, Sheans and half Pikes; they intrenched themſelves, and wait<g ref="char:EOLhyphen"/>ed for the opportunity wherein to ſurprize Us, but provi<g ref="char:EOLhyphen"/>dentially the Traitors were diſcovered, ſeized, and ſix of the principal of them Executed; about Two hundred more are ſent into <hi>England,</hi> where, I hope, they will be dealt with according to their deſerts. The Iriſh being informed that their Plot was diſcovered, their hopes being fruſtrated, they did on the ſixth of
+<pb n="2" facs="tcp:97632:3"/>
+               <hi>October</hi> ſet fire on their Camp, and retreated four Miles with more ſpeed than they came forward, and poſted themſelves near the Bogg of <hi>Ardee,</hi> being always willing to have ſo conve<g ref="char:EOLhyphen"/>nient a Retreat as a Bogg at hand.</p>
+            <p>They had not the courage in all that time to make any At<g ref="char:EOLhyphen"/>tempt on Us. Indeed, ſeldom hath it been known that two ſuch Armies have been ſo long poſted ſo near each other, and no Action happen between them.</p>
+            <p>The intemperateneſs of the Weather, the great Rains, the Flux and Diſtempers in King <hi>James</hi>'s Camp, hath taken off ſo many of his Army, that he was compelled to ſend his Men into Winter Quarters, a good part of them are at <hi>Drogheda,</hi> and a conſiderable number is ſent to <hi>Athlone,</hi> which is the Cen<g ref="char:EOLhyphen"/>ter of <hi>Ireland;</hi> ſome are ſent to <hi>Dublin,</hi> and about Five thouſand continue Encamped at <hi>Ardee.</hi>
+            </p>
+            <p>I ſuppoſe you have heard of the death of ſome of our Soldiers, for 'tis impoſſible for an Army, at this ſeaſon, to keep the Field in any part of the world, and that ſome ſhould not drop off; but the Companies are in ſome meaſure recruited with Nor<g ref="char:EOLhyphen"/>thern Proteſtants who are ſeaſoned to and acquainted with the Country.</p>
+            <p>Since I wrote the former, we have a ſtrong report that King <hi>James</hi> his Forces that Marched towards <hi>Athlone</hi> continued their March to <hi>James</hi> Town and <hi>Sligoe,</hi> and have cut off ſome of our men in each of thoſe places (whoſe loſs we ſenſibly lament) the reſt retreated, ſome to <hi>Ballyſhanon,</hi> ſome to <hi>Eniskillin.</hi>
+            </p>
+            <p>Our General intended as ſoon as our Forces ſhould joyn us that were detatched towards <hi>Charlemont,</hi> to have marched forward towards <hi>Dublin.</hi> But the wetneſs and immoderateneſs of the ſea<g ref="char:EOLhyphen"/>ſon will neceſſitate our drawing into Winter Quarters, it being almoſt impoſſible for our men to contend any longer with the Extremity of the Weather.</p>
+            <p>As to what concerns the ſeveral Parties in King <hi>James</hi> his Army, the whole body of the Papiſts in this Kingdom, their Number, Eſtates, and what may be fit to do with them, and how they may be made to pay the Charge of their Reduction, <hi>&amp;c.</hi> you will find in the Anſwer to the following Query.</p>
+            <div type="response">
+               <pb n="3" facs="tcp:97632:3"/>
+               <head>An Anſwer to that Seaſonable and Important Queſtion. Which Party of the <hi>Iriſh</hi> Rebels may be invited to Submiſſion by a ſecond Declaration, or Offer of Pardon, with moſt Advantage to His Majeſty, to <hi>England</hi> in reſpect of Charge, and to the Proteſtant Intereſt in <hi>Ireland.</hi>
+               </head>
+               <p>ALL the Papiſts in that Kingdom, as well thoſe of Engliſh Extraction, as the Natives, are joyned in this Rebellion; this being noted, it is expedient (for reſolving the Que<g ref="char:EOLhyphen"/>ſtion) to conſider the ſeveral Parties amongſt them, and the diſtinct Intereſt of each of theſe Parties which will open the matter, ſo as it will be eaſie to obſerve which of them are like<g ref="char:EOLhyphen"/>lieſt to be charm'd to any Advantage.</p>
+               <p>The Popiſh Clergy and Lawyers have a right to the Van, for they are the Contrivers and Incendiaries to Rebellion, ſworn Vaſ<g ref="char:EOLhyphen"/>ſals to <hi>Rome</hi> and <hi>France,</hi> reſtleſs in their Endeavours for Extirpa<g ref="char:EOLhyphen"/>ting the Proteſtant Religion, and regaining the Church Lands: Should His Majeſty offer them any of thoſe Lands, to buy them off, it would be reſented worſe than the taking away of <hi>Mag<g ref="char:EOLhyphen"/>dalen</hi> Colledge, for our Clergy think them little enough for themſelves, and will not conſent that a third or half ſhould be given their Brethren of the Church of <hi>Rome,</hi> yet leſs than the whole (nor that) will not ſatisfie, for theſe pant after the Lives as well as the Livings of the Hereticks.</p>
+               <p>And that this work may be done effectually, both theſe ſorts of men are now commiſſioned, and actually in Arms: The Bi<g ref="char:EOLhyphen"/>ſhops, Prieſts, <hi>&amp;c.</hi> (according to their degrees) are Colonels, Captains Lieutenants, and Ring-leaders of the People; to the greateſt Miſchiefs of their Secular and Regular Clergy, there are four Titulur Arch-Biſhops, 23 Biſhops, 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 28 Pariſh Prieſts.</p>
+               <p>Next comes the moſt numerous part of the Gentry and No<g ref="char:EOLhyphen"/>bility, who by their Rebellion in 1641. forfeited their Eſtates, of which the Proteſtants are ſeized, theſe having gain'd ſome Mili<g ref="char:EOLhyphen"/>tary Experience, in foreign parts, are the flower of the Rebels Arm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d their condition cannot be made worſe by any improſpe<g ref="char:EOLhyphen"/>rous event of War; dig they cannot, and they will not eaſily be perſwaded to return to beggary, nothing leſs than a good part, or the whole of the Eſtates they forfeited will be a bait for them.</p>
+               <p>
+                  <pb n="4" facs="tcp:97632:4"/>As to the common Soldiers, part of them have been dragoon<g ref="char:EOLhyphen"/>ing the Proteſtants in <hi>France,</hi> the reſidue have from their Cradles lived by Theft and Robbery, are incapable of labour of induſtry; did theſe and the former ſubmit being disbanded, protected and diſperſt, they would be more dangerous than now together in Arms, for they would fill that Kingdom with particular Mur<g ref="char:EOLhyphen"/>ders, Rapes and Robberies, render the Planting of it dangerous of impracticable: Theſe cannot be ſaved to any good uſe, nor tranſported, but they run to <hi>France,</hi> to ſtrengthen that Enemy of Mankind.</p>
+               <p>As to the Nobility and Gentry that were reſtored to their Eſtates by <hi>Charles</hi> the Ild's Court of Claims, they were as bloody Rebels as the former (ſuch as the Marqueſs of <hi>Antrim, &amp;c.</hi>) yet had better luck, for theſe were rewarded with better Eſtates for their Murder's, than they loſt by their Rebellion: And good reaſon if they were commiſſion'd to that Villany by <hi>Charles</hi> the Firſt, as they alledge and <hi>Charles</hi> the Second ſeemed to coun<g ref="char:EOLhyphen"/>tenance in the caſe of that Marqueſs, who was proved by many credible Witneſſes to have been in the firſt contrivance of the Rebellion in 1641 and to have perpetrated many horrid Mur<g ref="char:EOLhyphen"/>ders, yet that King commanded his Eſtate to be reſtored, giving for reaſon that he acted nothing in that matter but by Commiſ<g ref="char:EOLhyphen"/>ſion from his Father <hi>Charles</hi> the Martyr, and by order of his Mother, purſuant to the Royal Commands ſhe received from his Father.</p>
+               <p>Of eight millions of Acres profitable Land in <hi>Ireland,</hi> theſe Popiſh Proprietors poſſeſs about three millions, or a little more than one third of the whole; they are neither perſons of Con<g ref="char:EOLhyphen"/>duct nor Intereſt; 'tis certain they have little influence on the common people; for by their Oppreſſions and Exactions, they have ſo far lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their hearts, that where Proteſtant Landlords will receive them, they will not live under thoſe of their own Nation and Religion: 'Tis not there as here in <hi>England,</hi> where Tenants have Leaſes for Lives, long Terms of years, or ſuch Tenures as lays them under many tyes of Intereſt and Obliga<g ref="char:EOLhyphen"/>tion to venture for, or be ſwayed by their Landlords, but the quite contrary; for the Popiſh Landlords ſett their Lands but from year to year, that they may the oftner rack their poor Tenants; and hence it is, that tho' thoſe people live in the moſt
+<pb n="5" facs="tcp:97632:4"/>
+plentiful Countrey in the world, yet they feed almoſt wholly upon Milk and Potatoes, only now and then, they have a little Barley or Oaten-bread:</p>
+               <p>This party are as deeply concerned in the Rebellion, diſpoiling and plunder of the Proteſtants as the former, ſhould any of theſe ſubmit, it will be but ſingly, or with very few, probably with conſent of the reſt, that they may ſave their Eſtates, preſerve an Intereſt for the Papiſts in future, that they may give private Intelligences to their brethren, that <hi>England</hi> may be at the whole Expenſe of the War, the diſpoiled Proteſtants of <hi>Ireland</hi> be left without reprize for their Loſſes, and his Majeſty leſs capable to proſecute the War againſt <hi>France;</hi> ſhould theſe be pardoned, they will be in a better Condition for a future Rebellion than yet they have been, being diſciplin'd and now inriched with the ſpoils of the <hi>Engliſh.</hi>
+               </p>
+               <p>The only party that remains to be ſpoken of is the Husbandman and Labourer which conſtitutes the body of that people, and are Nineteen parts of Twenty of the Papiſts in <hi>Ireland.</hi> For the whole of them, Men, Women and Children, are but one Million, of which we ſuppoſe 40 or 50000 in Arms unfit to be pardoned or tranſported (except to the <hi>Eaſt-Indies</hi>) and that theſe ſhould periſh in their Rebellion, and that His Majeſty and the wiſdom of the Parliament think good to ſpare ſuch of the common people as are not guilty of Murder, the body of that people will remain intire tho' all the former parties ſhould be deſtroy'd. Theſe (to ſay the truth of them) are leaſt dangerous, being in themſelves a well-natur'd people, and may by eaſy methods be made uſeful, if freed from their Clergy and great men, the generality of them ſpeak or underſtand <hi>Engliſh,</hi> which the twentieth man did not in 1641. They willingly yield their Children for Servants to Proteſtants, and are content they become ſuch, their Clergy have of late been ſo extreamly burthenſom to them, that they are more than ever diſpos'd to admit a Reformation, and to part with them and their <hi>Iriſh</hi> Landlords, and indeed ſuch is the Aſcendant that the Prieſts have over the Conſciences of that bigotted people, that it will be difficult and very chargeable, if not impoſſible (whileſt theſe remain amongſt them) to keep them from rebellion on the leaſt Forreign incouragement, as 130 years ſad experience verifies beyond Contradiction. They natu<g ref="char:EOLhyphen"/>rally
+<pb n="6" facs="tcp:97632:5"/>
+love Learning for their Children, and were there Free Schools ſet up to inſtruct them, they would (without compulſi<g ref="char:EOLhyphen"/>on) inſenſibly become Proteſtants. For which great and good works the preſent Rebellion, and their Reduction will furniſh their Majeſties with a fit Opportunity.</p>
+               <p>All that this part of that Nation can expect or deſire is Pardon and Indempnity, which His Majeſty and both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, may extend as they think fit, but if any of the former par<g ref="char:EOLhyphen"/>ties be comprehended with them, it will render them dangerous and formidable to the <hi>Engliſh</hi> there.</p>
+               <p>Thus I have ſet down the ſeveral Parties and Intereſts of the Papiſts in <hi>Ireland,</hi> whereby it plainly appears that there is danger in ſparing any of them, tho' leaſt (according to my ſence) in tak<g ref="char:EOLhyphen"/>ing the Peſants, or (in that Countrey language) the Skulloges into Protection, as for the Clergy, Lawyers and thoſe who loſt their Eſtates in 1641. we have no bait for them; if they muſt live, they would be leaſt miſchievous in the <hi>Eaſt-Indies;</hi> were they charmed at preſent, theſe Cockatrices would in a little time bring forth Scorpions; which is true alſo of their landed men.</p>
+               <p>The Common Souldiers are leſs miſchievous in open hoſtili<g ref="char:EOLhyphen"/>ty than under our Protection; their Nobility and Gentry who poſſeſs about one third of that Kingdom are as deep in guilt and rebellion as the reſt, have little influence on the other parties, the receiving them to mercy will not ſhorten the War, but give heads to, and ſtrengthen the Papiſts for the future. Subject us to innumerable miſchiefs, impoveriſh <hi>England</hi> by bearing the charge of the War at preſent, and keeping up a numerous ſtanding Ar<g ref="char:EOLhyphen"/>my in future to keep theſe from rebelling, all which by their Forfeitures may be prevented; the deſpoiled Proteſtants in part reprized for their Loſſes, and His Majeſty reimburſed, which money imployed againſt <hi>France</hi> would expedite the bringing down of that Chriſtian Turk.</p>
+               <p>Let it not be forgotten that King <hi>James</hi> and the ſuppoſititious Prince of <hi>Wales</hi> pretend Title to the Crown. And that both their Titles have been recognized by Act of Parliament in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> That not only the Papiſts in theſe three Kingdoms, but a numerous party that declare for Paſſive Obedience and Non-re<g ref="char:EOLhyphen"/>ſiſtance long for and are induſtriouſly endeavouring his Reſtau<g ref="char:EOLhyphen"/>ration, and the deſtruction of the Proteſtant Intereſt, the par<g ref="char:EOLhyphen"/>doning
+<pb n="7" facs="tcp:97632:5"/>
+the Eſtated Papiſts in <hi>Ireland</hi> will ſtrengthen and in<g ref="char:EOLhyphen"/>courage theſe, furniſh the <hi>French</hi> King with the means <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o diſtract us at pleaſure, intail dangers on poſterity, diſcourage the planting of that Kingdom; for the Proteſtants whoſe houſes and Eſtates are ruined will not in that caſe repair them, becauſe they know that the pardoning of one Rebellion in <hi>Ireland,</hi> is alwaies the <hi>preludium</hi> to another. For <hi>Cambden</hi> truly obſerves, that by long uſe it was grown a miſchievous Cuſtom in <hi>Ireland,</hi> That Rebels might with part of the money they got by Pillage and Plunder, (of the <hi>Engliſh</hi>) procure themſelves pardon and pro<g ref="char:EOLhyphen"/>tection, and eſcape without puniſhment, and that the Coſtly re<g ref="char:EOLhyphen"/>bellions of <hi>Ireland</hi> ſpread under pretext of Religion; were cheriſh<g ref="char:EOLhyphen"/>ed and nouriſhed by contempt, lenity and pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſimony in <hi>England.</hi> As alſo that great Sums of money were ſpent about <hi>Ireland,</hi> but to little purpoſe, for that by a certain infelicity, common as well to <hi>England</hi> as to <hi>Ireland,</hi> where for the moſt part to ſuch publick work, ſuch men thruſt themſelves forward, and are admitted, as ſordidly prefer their own private, before the publick good, I hope theſe paſſages were Hiſtorical and not Prophetical.</p>
+               <p>Five hundred years have not furniſh'ed one inſtance of the <hi>Iriſh,</hi> being reduced, when in Rebellion, by kind Offers, (unleſs made them at the laſt extremity) but there are innumerable of their growing inſolent, and obſtinate thereby. He that knows not this, underſtands not an <hi>Iriſh</hi> man, nor how rightly to deal with him.</p>
+               <p>If we imagine that Liberty for their Religion, a ſhare in the Civil Juſtice, will oblige and reſtrain them from violence and treaſon; we ſhall be miſtaken; for in 1641. the Papiſts in that Kingdom had their Titular Arch-biſhops, and Biſhops, their Frieries and Nunneries, their Secular and Regular Clergy, they were Juſtices of the Peace, Sheriffs of Counties, Mayors and Bay<g ref="char:EOLhyphen"/>liffs of Corporations, <hi>&amp;c.</hi> they were ſeized of three fourths of the Lands there all the Laws againſt them (which are but few in <hi>Ireland</hi> to what they are in <hi>England</hi>) were ſuſpended, as to their Execution. There was then a Parliament ſitting in that Kingdom moſtly of Papiſts, wherein they remonſtrated all their imaginary Grievances; the Government concurred that they ſhould ſend their Deputies into <hi>England</hi> to repreſent them to the King, whereupon they had many forfeitures (ſome of whole Coun<g ref="char:EOLhyphen"/>ties)
+<pb n="8" facs="tcp:97632:6"/>
+releaſed to them, and all the reſt of their grievances re<g ref="char:EOLhyphen"/>dreſſed, which only put them into a better condition to rebel. For notwithſtanding all theſe Conceſſions, in a few Months after, (being ſtirred up by their Clergy) they broke out into that bar<g ref="char:EOLhyphen"/>barous and horrid Rebellion, wherein 150000 Proteſtants were maſſacred in cold blood (without any provocation) beſides as many more that periſhed by Famine and Sword, in the proſe<g ref="char:EOLhyphen"/>cution of that Rebellion; which is demonſtration to all the World, that theſe people are not to be retained in obedience by Immunities, Priviledges and Kindneſs, nor reſtrained from Murders and Maſſacres any longer than they are kept under by a powerful ſtanding Army.</p>
+               <p>In 1650. <hi>Oliver</hi> being in <hi>Ireland</hi> the growth of <hi>Charles</hi> 2d par<g ref="char:EOLhyphen"/>ty in <hi>Scotland</hi> calling him into <hi>England,</hi> he was put to it how in a little to divide, and break the power of the <hi>Iriſh;</hi> as the beſt expedient he elected to hold a ſolemn debate for three days ſucceſſively, whether that Nation ſhould not be wholly ex<g ref="char:EOLhyphen"/>tirpated, which had the deſired Effect: For on notice thereof they inſtantly were terrified, divided and ſcampered, and many ſubmitted on condition to be tranſported.</p>
+               <p>Let it be remembred that the Tragedy which for three years paſt, and now is acting in <hi>Ireland,</hi> was intended alſo for the Theatre of <hi>England,</hi> God forbid that by weakneſs, good nature, or out of good husbandry, we ſhould be prevailed on to bring ruin on <hi>England</hi> alſo, by preſerving the Inſtruments of our deſtruction; If they abide among us, they will certainly prove goads in our ſides, and thorns in our Eyes.</p>
+               <p>The Lives of the Proteſtants in <hi>Ireland</hi> can never be ſecured whilſt theſe remain among the Natives. If (as Sir <hi>Walter Rawleigh</hi> relates) the wiſe State of <hi>Venice,</hi> when their Senate is met, will not enter on any Conſultation, until ſolemn Pro<g ref="char:EOLhyphen"/>clamation be made that all Prieſts ſhall depart (becauſe they know them pernicious Councellors of State, even amongſt thoſe of their own Religion) why ſhould it be thought rigorous, that we ſhould remove ſuch Inſtruments of miſchief, to ſuch diſtance as may ſecure us from dangers by them.</p>
+               <p>If againſt what has been ſaid; that vulgar Objection be ſtarted, That His Majeſty muſt deal tenderly with the Papiſts at home, elſe he will poſſibly diſoblige his Popiſh Allies: I anſwer, this
+<pb n="9" facs="tcp:97632:6"/>
+Objection is foppiſh, are not all the Papiſts in theſe Kingdoms in the <hi>French</hi> Intereſt? Have they not contributed moſt to that Kings preſent Greatneſs and Tyranny? Are not all the <hi>Iriſh</hi> and ſeveral of the <hi>Engliſh</hi> Papiſts now in Arms againſt their Majeſties? Therefore the Rooting out or ſuppreſſion of theſe is as ſerviceable to the Confederates (at preſent and in future) as the taking of <hi>Mentz</hi> or <hi>Bonn,</hi> for theſe are they that direct their Majeſties Arms from invading <hi>France,</hi> yet were the Rebels Eſtates in <hi>Ireland</hi> by the Par<g ref="char:EOLhyphen"/>liament declared forfeited as in 1641. It is demonſtrable that money may be raiſed to reimburſe His Majeſties pro<g ref="char:EOLhyphen"/>bable charge in that War, which imploy'd againſt <hi>France,</hi> will ſave much to this Kingdom, gratify the Confederates, and expedite the bringing down that <hi>French</hi> Tyrant.</p>
+               <p>'Tis certain there is a very ancient Prophecy in the <hi>Va<g ref="char:EOLhyphen"/>tican</hi> at <hi>Rome,</hi> which ſaith, That that Mother Church fal<g ref="char:EOLhyphen"/>leth when in <hi>Ireland</hi> the Catholick Faith is overcome; if it be duly pondered, there is very much in it; were theſe three Kingdoms once intire, being free'd from the Effects of the Plots and Treaſons of the Papiſts, Popery would ſoon tumble in the World; 'tis pity we ſhould be ſo ſtu<g ref="char:EOLhyphen"/>pid as to ſupport that Chair by cheriſhing thoſe vipers in our boſoms.</p>
+               <p>May their Majeſties that have been the Inſtruments of ſo much good to theſe Nations, have the Eternal honour to give this blow alſo to that Intereſt!</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
